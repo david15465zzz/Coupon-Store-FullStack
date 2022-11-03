@@ -1,8 +1,8 @@
 # Coupon-Store-Project
 
 A coupon store build with java, spring boot, hibernate, react(type script), redux and mysql. the store got 3 different users admin, company and customer. Each user logs in and performs his actions. There is also a thread that runs and deletes coupons that have expired.
-*don't forget to change the password for mysql to your personal  password in application.proprties  *
-*don't forget to npm i to install all needed dependencies *
+*don't forget to change the password for mysql to your personal  password in application.proprties  * <br />
+*don't forget to npm i to install all needed dependencies * <br />
 
 
 
