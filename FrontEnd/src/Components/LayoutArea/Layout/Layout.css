@@ -1,0 +1,14 @@
+.Layout {
+    height: 100%;
+	display: grid;
+    grid-template-rows: 10% 5% 85%;
+}
+
+.Layout>header, .Layout>nav, .Layout>main {
+    background: linear-gradient(0deg, lightblue, white);
+}
+
+.Layout>main{
+    overflow: auto;
+}
+

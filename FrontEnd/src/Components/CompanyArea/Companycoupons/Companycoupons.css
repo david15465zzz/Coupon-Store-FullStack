@@ -1,0 +1,10 @@
+.Companycoupons button {
+	width: 150px;
+	height: 40px;
+	border-radius: 30px;
+}
+#refresh{
+	position: absolute;
+    right: 30px;
+    top: 150px;
+}

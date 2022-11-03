@@ -1,0 +1,14 @@
+.CouponDetails.box {
+    width:300px;
+    background: linear-gradient(90deg, rgb(250, 157, 241), lightyellow);
+    overflow-wrap: break-word;
+}
+
+.CouponDetails img{
+    width:150px;
+    height:150px;
+    border: 1px solid black;
+    border-radius: 10px;
+    vertical-align: center;
+  
+}

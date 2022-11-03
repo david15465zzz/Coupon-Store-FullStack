@@ -1,0 +1,7 @@
+.Menu {
+	text-align: center;
+}
+
+.Menu>*{
+    padding: 10px;
+}

@@ -1,0 +1,14 @@
+.CompanyCard.box {
+	width:300px;
+    background: linear-gradient(90deg, rgb(94, 255, 94), white);
+}
+.CompanyCard > div:last-child{
+    margin-left: auto;
+}
+.CompanyCard img{
+    width:80px;
+    height:80px;
+    border: 1px solid black;
+    border-radius: 10px;
+    vertical-align: center;
+}
